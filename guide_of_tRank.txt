@@ -1,0 +1,11 @@
+(1) Data preparation:
+    Process single cell RNA-seq data following Scanpy guide
+    Imputing single cell RNA-seq data following SAVER package
+    According to your network, calculate differential mutual information to assign weight to networks
+    Save weighted networks of different cell types for the following input
+
+(2) Algorithm Implementation:
+     Run several  .m file to try different data integration 
+
+(3) Save Results:
+     save as .mat file for results declaration
